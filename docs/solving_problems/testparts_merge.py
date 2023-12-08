@@ -3,3 +3,4 @@
 # A
 
 print("A")
+print("B")
